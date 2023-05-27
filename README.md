@@ -1,2 +1,1 @@
 # Stanford_Karel
-ㅎㅇ
